@@ -6,7 +6,12 @@ This project is a simple web application where users can search for countries an
 - Fetches country data from the [Countries API](https://apis.ccbp.in/countries-data).  
 - Displays a loader while fetching data.  
 - Dynamically renders country details (flag, name, population).  
-- Filters country data based on user input.  
+- Filters country data based on user input.
+![image](https://github.com/user-attachments/assets/114f532e-298b-4c05-b9b6-aa9e2659d296)
+
+![image](https://github.com/user-attachments/assets/3e8ddcf7-9ea1-4da1-b089-27abed597b44)
+
+
 
 ## Concepts Learned  
 During this challenge, the following concepts were explored and implemented:  
